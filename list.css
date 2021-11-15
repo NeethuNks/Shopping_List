@@ -1,0 +1,26 @@
+table{
+   
+    background-color: #D6EEEE;
+    align-content: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+}
+body{
+    background-image:url("./shopping.jpg");
+    background-size: cover;
+}
+td:nth-child(even) {
+        background-color: cadetblue;
+  }
+h1{
+    color:cadetblue ;
+    text-align: center;
+}
+th,td{
+    border: 1px solid;
+    padding: 5px;
+}

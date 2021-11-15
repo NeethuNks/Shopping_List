@@ -1,0 +1,86 @@
+{
+    "list":[
+        
+        {
+            "SINo":"1",
+            "Name":"Rice",
+            "Quantity":"5",
+            "Unit":"kg",
+            "Department":"Grains",
+            "Notes":"Matta rice"
+        },
+        {
+            "SINo":"2",
+            "Name":"Milk",
+            "Quantity":"500",
+            "Unit":"ml",
+            "Department":"Dairy",
+            "Notes":"Milma"
+        },
+        {
+            "SINo":"3",
+            "Name":"Apple",
+            "Quantity":"1",
+            "Unit":"kg",
+            "Department":"Fruits",
+            "Notes":"Fresh"
+        },
+        {
+            "SINo":"4",
+            "Name":"Onion",
+            "Quantity":"1",
+            "Unit":"kg",
+            "Department":"Vegitable",
+            "Notes":"Fresh"
+        },
+        {
+            "SINo":"5",
+            "Name":"Egg",
+            "Quantity":"10",
+            "Unit":"no's",
+            "Department":"Dairy",
+            "Notes":"Organic brown egg"
+        },
+        {
+            "SINo":"6",
+            "Name":"Jam",
+            "Quantity":"200",
+            "Unit":"g",
+            "Department":"Canned good",
+            "Notes":"Kissan mixed fruit jam"
+        },
+        {
+            "SINo":"7",
+            "Name":"Biscuit",
+            "Quantity":"2",
+            "Unit":"Packet",
+            "Department":"Snacks",
+            "Notes":"Dark Fantasy Choco Fills"
+        },
+        {
+            "SINo":"8",
+            "Name":"Coconut Oil",
+            "Quantity":"500",
+            "Unit":"ml",
+            "Department":"Oil",
+            "Notes":"KLF coconad"
+        },
+        {
+            "SINo":"9",
+            "Name":"Tomato",
+            "Quantity":"500",
+            "Unit":"g",
+            "Department":"Vegetable",
+            "Notes":"Fresh"
+        },
+        {
+            "SINo":"10",
+            "Name":"Chilli Powder",
+            "Quantity":"500",
+            "Unit":"g",
+            "Department":"Spices",
+            "Notes":"Eastern"
+        }
+       
+    ]
+}
